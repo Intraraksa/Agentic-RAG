@@ -1,0 +1,16 @@
+[project]
+name = "ai-postinfo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain==0.3.27",
+    "langchain-chroma>=0.1.2",
+    "langchain-community==0.3.27",
+    "langchain-google-genai==2.1.8",
+    "langgraph==0.6.2",
+    "pip>=25.2",
+    "pypdf==5.9.0",
+    "python-dotenv==1.0.1",
+]
