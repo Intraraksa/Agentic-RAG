@@ -9,4 +9,7 @@ wheels/
 
 # Virtual environments
 .venv
+# databases
 /data/chroma_db
+/data/chroma_db2
+/data/db
